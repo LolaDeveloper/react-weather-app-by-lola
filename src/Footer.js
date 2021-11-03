@@ -7,7 +7,7 @@ export default function Footer() {
         <p className="mt-5">
           😎Coded by Funmilola|
           <a
-            href="https://github.com/LolaDeveloper/Weather-App-Project-by-Lola"
+            href="https://github.com/LolaDeveloper/react-weather-app-by-lola"
             title="View source code"
             target="_blank"
             rel="noreferrer"
