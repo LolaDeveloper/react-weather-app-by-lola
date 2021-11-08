@@ -5,14 +5,23 @@ export default function Footer() {
     <div>
       <footer className="container">
         <p className="mt-5">
-          😎Coded by Funmilola|
+          😎This project was coded by{" "}
+          <a
+            href="https://funmilola-alice-adeniran-portfolio.netlify.app/"
+            title="View source code"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Funmilola
+          </a>{" "}
+          and is{" "}
           <a
             href="https://github.com/LolaDeveloper/react-weather-app-by-lola"
             title="View source code"
             target="_blank"
             rel="noreferrer"
           >
-            Project Open-source
+            Open-sourced on GitHub
           </a>
         </p>
       </footer>
