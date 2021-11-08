@@ -2,7 +2,7 @@ import Search from "./Search";
 import Footer from "./Footer";
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="Weather">
@@ -18,5 +18,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
